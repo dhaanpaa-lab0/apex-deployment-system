@@ -370,5 +370,7 @@ MigrationBackup/
 # Ignore all local history of files
 .history
 .ionide
-
+.temp
+.tmp
+.work
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
